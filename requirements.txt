@@ -1,6 +1,6 @@
 Flask
-werkzeug
-resume-parser
-pdfminer.six
-nltk
 gunicorn
+spacy
+pdfminer.six
+numpy
+pandas
