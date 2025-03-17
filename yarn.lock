@@ -1,5 +1,0 @@
-rm -rf yarn.lock
-yarn install
-git add yarn.lock
-git commit -m "Fix: Updated yarn.lock"
-git push origin main
