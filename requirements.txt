@@ -5,3 +5,4 @@ pdfminer.six
 numpy
 pandas
 pyresparser
+nltk
