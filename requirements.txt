@@ -1,5 +1,5 @@
-flask
-gunicorn
+Flask
+werkzeug
 resume-parser
 pdfminer.six
 nltk
