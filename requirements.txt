@@ -3,3 +3,4 @@ werkzeug
 resume-parser
 pdfminer.six
 nltk
+gunicorn
